@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\STOCK\bin\Debug\STOCK.exe.config
+C:\Users\Acer\Desktop\STOCK\bin\Debug\STOCK.exe
+C:\Users\Acer\Desktop\STOCK\bin\Debug\STOCK.pdb
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.Properties.Resources.resources
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.exe
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.pdb
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.Form1.resources
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.adminPanel.resources
+C:\Users\Acer\Desktop\STOCK\obj\Debug\STOCK.Home.resources
